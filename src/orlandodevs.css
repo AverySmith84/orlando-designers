@@ -10,3 +10,10 @@ body {
   padding: 100px 20px;
   font: 16px/24px sans-serif;
 }
+
+code {
+  background: lightgray;
+  font-size: 80%;
+  padding: 3px 6px;
+  border-radius: 3px;
+}

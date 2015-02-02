@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Orlando Developers",
-    "description": "The Orlando Developers Slack group website"
+    "title": "Orlando Designers",
+    "description": "The Orlando Designers Slack group website"
   },
   "plugins": {
     "metalsmith-markdown": {
