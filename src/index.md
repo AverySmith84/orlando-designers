@@ -2,21 +2,21 @@
 template: index.html
 ---
 
-## Orlando Developers
+## Orlando Designers
 
-Orlando Developers Slack is a place for software developers who live or work in Orlando to chat and support each other.
+Orlando Designers Slack is a place for designers who live or work in Orlando to chat and support each other.
 
 ### How do I join?
 
-The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing tjkrus@gmail.com. If you are already a member, you can use a slash command to invite other users, eg: `/requestinvite name@email.com` and and admin will handle the request!
+The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing [robbschiller@gmail.com](mailto:robbschiller@gmail.com). If you are already a member, you can use a slash command to invite other users, eg: `/requestinvite name@email.com` and and admin will handle the request!
 
 ### Why does this exist?
 
-Orlando Developers Slack was created to foster the software development community in Orlando. We encourage sharing your knowledge, asking questions, forming relationships and a general ambition to strengthen the community.
+Orlando Designers Slack was created to foster the design community in Orlando. We encourage sharing your knowledge, asking questions, forming relationships and a general ambition to strengthen the community.
 
 ### Am I eligible to join?
 
-In short, yes! We are really open to having as many people that want to be a part, be a part. There are no hard rules on who is able to join and who is not. The only consideration is that the purpose of the group is to grow local relationships. That means if have attended meet ups in Orlando, work for a company based out of Orlando, work with other developers in Orlando, or have some similar affiliation, join us!
+In short, yes! We are really open to having as many people that want to be a part, be a part. There are no hard rules on who is able to join and who is not. The only consideration is that the purpose of the group is to grow local relationships. That means if have attended meet ups in Orlando, work for a company based out of Orlando, work with other designers in Orlando, or have some similar affiliation, join us!
 
 ### What are the rules?
 
@@ -24,7 +24,7 @@ Basically just be nice, treat others how you would like to be treated.
 
 #### Code of Conduct
 
-Orlando Developers Slack is a harassment free space. We do not tolerate harassment of any kind.
+Orlando Designers Slack is a harassment free space. We do not tolerate harassment of any kind.
 
 ##### Harassment includes
 

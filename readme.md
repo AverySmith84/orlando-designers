@@ -8,7 +8,7 @@ The Slack is invitation-only, but invitations are freely granted. You can reques
 
 ### Why does this exist?
 
-Orlando Designers Slack was created to foster the software design in Orlando. We encourage sharing your knowledge, asking questions, forming relationships and a general ambition to strengthen the community.
+Orlando Designers Slack was created to foster the design community in Orlando. We encourage sharing your knowledge, asking questions, forming relationships and a general ambition to strengthen the community.
 
 ### Am I eligible to join?
 
