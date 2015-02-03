@@ -32,5 +32,5 @@ http.createServer(function(req, res){
   };
 
 }).listen(port, function() {
-  console.log('Orlando developers server listening on port %s', port);
+  console.log('Orlando designers server listening on port %s', port);
 });
